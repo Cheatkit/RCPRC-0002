@@ -2,5 +2,5 @@
 Everything JavaScript
 
 ### DadJoke Generator Website
-
-[DadJoke Generator](/JokeWebsite/README.md)
+A Website made to generate Dadjokes
+- [DadJoke Generator](/JokeWebsite/README.md)
