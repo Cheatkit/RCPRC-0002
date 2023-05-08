@@ -1,4 +1,4 @@
-# RCPRC-0002
+# RCPRC-0002 - JavaScript Projects
 Everything JavaScript
 
 ### DadJoke Generator Website
